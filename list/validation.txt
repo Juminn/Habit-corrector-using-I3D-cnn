@@ -1,0 +1,9 @@
+C:\project\I3D-Tensorflow-master\images\chin_hand_bound5_val 1
+C:\project\I3D-Tensorflow-master\images\nomove_bound5_val 0
+C:\project\I3D-Tensorflow-master\images\fingernail_bound5_val 2
+C:\project\I3D-Tensorflow-master\images\lips_bound5_val 3
+C:\project\I3D-Tensorflow-master\images\yesmove_bound5_val 0
+C:\project\I3D-Tensorflow-master\images\chin_inival 1
+C:\project\I3D-Tensorflow-master\images\little_move_inival_a 0
+C:\project\I3D-Tensorflow-master\images\little_move_inival_b 0
+C:\project\I3D-Tensorflow-master\images\little_move_inival 0

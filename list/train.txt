@@ -1,0 +1,13 @@
+C:\project\I3D-Tensorflow-master\images\chin_hand_bound5 1
+C:\project\I3D-Tensorflow-master\images\nomove_bound5 0
+C:\project\I3D-Tensorflow-master\images\fingernail_bound5 2
+C:\project\I3D-Tensorflow-master\images\lips_bound5 3
+C:\project\I3D-Tensorflow-master\images\yesmove_bound5 0
+C:\project\I3D-Tensorflow-master\images\chin_hand_bound5a 1
+C:\project\I3D-Tensorflow-master\images\fingernail_bound5a 2
+C:\project\I3D-Tensorflow-master\images\lips_bound5b 3
+C:\project\I3D-Tensorflow-master\images\yesmove_bound5b 0
+C:\project\I3D-Tensorflow-master\images\lips_bound5a 3
+C:\project\I3D-Tensorflow-master\images\yesmove_bound5a 0
+C:\project\I3D-Tensorflow-master\images\chin_hand_bound5b 1
+C:\project\I3D-Tensorflow-master\images\fingernail_bound5b 2
