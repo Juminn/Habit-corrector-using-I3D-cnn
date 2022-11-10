@@ -1,5 +1,9 @@
 # Habit corrector using I3D cnn model(습관교정기)
 
+
+![시연영상 줄임](https://user-images.githubusercontent.com/90203114/201026180-fd1d0c00-78ba-4246-a820-6bf69a727138.gif)
+
+
 ## environment:
 - python 3.7
 - tensorflow-gpu 1.14.0
