@@ -16,7 +16,7 @@
 ## 2. how it works
 1. Detect habits through cam
 2. Helps users stop a habit by notifying them
-  ### 2.1 The current habit
+  ### 2.1 currently detected habit is
   1. nail biting
   2. lip biting
   3. chin on hand
