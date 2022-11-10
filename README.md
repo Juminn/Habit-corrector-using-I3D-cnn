@@ -16,10 +16,10 @@
 ## 2. how it works
 1. Detect habits through cam
 2. Helps users stop a habit by notifying them
-### 2.1 The current habit
-1. nail biting
-2. lip biting
-3. chin on hand
+  ### 2.1 The current habit
+  1. nail biting
+  2. lip biting
+  3. chin on hand
 
 ## 3. how to Run
 $ python act_detector.py
