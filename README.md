@@ -24,3 +24,6 @@
 ## 3. how to Run
 $ python act_detector.py
 
+## 4. Reference
+[I3D](https://github.com/deepmind/kinetics-i3d)
+
