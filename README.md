@@ -4,7 +4,7 @@
 ![시연영상 줄임](https://user-images.githubusercontent.com/90203114/201026180-fd1d0c00-78ba-4246-a820-6bf69a727138.gif)
 
 
-## environment:
+## 1. environment:
 - python 3.7
 - tensorflow-gpu 1.14.0
 - tensorflow-probability 0.7.0
@@ -13,14 +13,14 @@
 - CuDNN 7.4
 
 
-## how it works
+## 2. how it works
 1. Detect habits through cam
 2. Helps users stop a habit by notifying them
-### The current habit
+### 2.1 The current habit
 1. nail biting
 2. lip biting
 3. chin on hand
 
-## Run
+## 3. how to Run
 $ python evaluate_sample.py
 
