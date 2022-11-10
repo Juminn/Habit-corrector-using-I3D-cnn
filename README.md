@@ -22,5 +22,5 @@
 3. chin on hand
 
 ## 3. how to Run
-$ python evaluate_sample.py
+$ python act_detector.py
 
