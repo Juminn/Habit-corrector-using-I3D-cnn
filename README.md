@@ -1,4 +1,4 @@
-# Habit-Corrector(습관교정기)
+# Habit corrector using I3D cnn model(습관교정기)
 
 ## environment:
 - python 3.7
