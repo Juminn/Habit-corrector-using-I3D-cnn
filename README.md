@@ -8,3 +8,14 @@
 - CUDA 10.0
 - CuDNN 7.4
 
+## function
+1. detect bad habbit from cam
+2. alarm to user
+### now bad habbit is
+1. touch nose
+2. bite fingernail
+3. scrach lips
+
+## Run
+$ python evaluate_sample.py
+
