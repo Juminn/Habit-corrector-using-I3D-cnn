@@ -8,13 +8,14 @@
 - CUDA 10.0
 - CuDNN 7.4
 
-## function
-1. detect bad habbit from cam
-2. alarm to user
-### now bad habbit is
-1. touch nose
-2. bite fingernail
-3. scrach lips
+
+## how it works
+1. Detect habits through cam
+2. Helps users stop a habit by notifying them
+### The current habit
+1. nail biting
+2. lip biting
+3. chin on hand
 
 ## Run
 $ python evaluate_sample.py
